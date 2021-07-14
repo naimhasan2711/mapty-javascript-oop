@@ -13,3 +13,11 @@ Student project created as part of the Modern JavaScript Bootcamp by Jonas Sched
 - App can load data from local storage before rendering map
 
 ## [Live Demo](https://mapty-js-oop.netlify.app/)
+
+## App Flowchart
+
+![flowchart](https://github.com/naimhasan2711/mapty-javascript-oop/blob/main/Mapty-flowchart.png)
+
+## App Architecture
+
+![Architecture](https://github.com/naimhasan2711/mapty-javascript-oop/blob/main/Mapty-architecture-final.png)
